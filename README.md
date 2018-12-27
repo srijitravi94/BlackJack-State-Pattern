@@ -1,5 +1,5 @@
 # Implementation of BlackJack using State Pattern and Factory Pattern
-This repository is an terminal application of the classic gambling game called **[BlackJack a.k.a Twenty-One.](https://en.wikipedia.org/wiki/Blackjack)** BlackJack is a comparing card game between usually several players and a dealer, 
+This repository is a terminal application of the classic gambling game called **[BlackJack a.k.a Twenty-One.](https://en.wikipedia.org/wiki/Blackjack)** BlackJack is a comparing card game between usually several players and a dealer, 
 where each player in turn competes against the dealer, but players do not play against each other. It is played with one or 
 more decks of 52 cards, and is the most widely played casino banking game in the world. The objective of the game is to beat 
 the dealer in one of the following ways:
